@@ -1,0 +1,24 @@
+Bellow is search from website and no good answer in baidu.com.
+Use Bing.com international search engine to search "How was the starting point for the Julian date system chosen?". The answer is bellow:
+
+http://curious.astro.cornell.edu/125-observational-astronomy/timekeeping/calendars/763-how-was-the-starting-point-for-the-julian-date-system-chosen-advanced#:~:text=In%20Scaliger%27s%20time%2C%20there%20were%20no%20known%20historical,to%20be%20the%20year%20when%20three%20cycles%20converge%3A
+Here also have a simple introduce.
+https://www.tondering.dk/claus/cal/julperiod.php
+
+The Julian Date system begins on Jan. 1, 4713 BC. (Note the year--you've transposed the digits in your question.)
+
+The Julian Period was proposed by French-Italian astronomer and historian Joseph Justice Scaliger in 1583. It may have been named for his father, Julius Caesar Scaliger, or perhaps it was named after the Julian calendar.
+
+In Scaliger's time, there were no known historical events before 4713 BC, so his calendar would avoid BC/AD or negative dates. He also chose the starting point for a Julian period to be the year when three cycles converge:
+
+1) The solar cycle: The 28 year cycle of the days of the month falling on the different days of the week in the Julian (not Gregorian) calendar.
+
+2) The Metonic or "golden number" cycle: The 19 year cycle of the lunar phases and days of the year.
+
+3) The indiction cycle: a Roman tax cycle of 15 years declared by Constantine the Great. (In period sources, dates were often recorded using this cycle, hence the interest by historians.)
+
+In the *last* year of the solar cycle, January 1 is a Sunday. In the first year of the Metonic cycle, the New Moon falls on January 1. The first indiction cycle began on 1 September 327.
+
+According to the 6th century scholar Dionysius Exiquus, the year of Christ's birth was the 9th year of solar cycle, the first year of the Metatonic cycle, and the third year of the Indiction cycle. If the year where each cycle was in its first year was the first year of the Julian period, then the year of Christ's birth would be year JD 4713, making the first year 4713 BC (in the Julian calendar).
+
+In 1849, the astronomer John F. Herschel turned Scaliger's calendar into the astronomical Julian Date system, taking January 1, 4713 BC as JD=0, and counting day numbers from that date. He also made the starting point of the day at noon, to avoid having the date change in the middle of the night during the observing run . . . at least for observers close enough to the Greenwich Meridian, since JD is usually measured in Universal Time.

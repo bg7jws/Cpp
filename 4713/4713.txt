@@ -1,0 +1,20 @@
+Hello, Mr. Claus,
+Please allow me to call you teacher.
+I'm interest in calender, recently, I try to know why Julian date start from BC4713 Jan 1,
+but I can not get useful information from baidu.com.(General Chinese use as google)
+we can not access some website here in China, like google.
+And I found your website, also found the only answer as below
+http://curious.astro.cornell.edu/125-observational-astronomy/timekeeping/calendars/763-how-was-the-starting-point-for-the-julian-date-system-chosen-advanced#:~:text=In%20Scaliger%27s%20time%2C%20there%20were%20no%20known%20historical,to%20be%20the%20year%20when%20three%20cycles%20converge%3A
+
+This wesite write,
+ "According to the 6th century scholar Dionysius Exiquus, THE YEAR of Christ's birth was the 9th year of solar cycle, the first year of the Metatonic cycle, and the third year of the Indiction cycle. If the year where each cycle was in its first year was the first year of the Julian period, then the year of Christ's birth would be year JD 4713, making the first year 4713 BC (in the Julian calendar)."
+
+As I know THE YEAR of Christ's birth is AD1, and I make an excel as attached to calculate try match different calender.
+but is looks something wrong(red font), I have 3 remarks in this excel.
+the only right way is move THE YEAR to up line, then everything can matched.
+
+would you please help research this question?
+
+Thanks a lot.
+Best Regards.
+		Zhang Bo from China PRC
