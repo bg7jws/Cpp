@@ -1,0 +1,21 @@
+﻿  2.c
+LINK : error LNK2001: 无法解析的外部符号 _start
+2.obj : error LNK2019: 无法解析的外部符号 __imp____acrt_iob_func，函数 _printf 中引用了该符号
+2.obj : error LNK2019: 无法解析的外部符号 __imp__getchar，函数 _main 中引用了该符号
+2.obj : error LNK2019: 无法解析的外部符号 __imp____stdio_common_vfprintf，函数 __vfprintf_l 中引用了该符号
+MSVCRTD.lib(init.obj) : error LNK2019: 无法解析的外部符号 __CrtDbgReport，函数 __CRT_RTC_INIT 中引用了该符号
+MSVCRTD.lib(init.obj) : error LNK2019: 无法解析的外部符号 __CrtDbgReportW，函数 __CRT_RTC_INITW 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 _strcpy_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z) 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 _strcat_s，函数 "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPAXPBD@Z) 中引用了该符号
+MSVCRTD.lib(error.obj) : error LNK2019: 无法解析的外部符号 ___stdio_common_vsprintf_s，函数 __vsprintf_s_l 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __wmakepath_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 __wsplitpath_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 _wcscpy_s，函数 "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned int)" (?GetPdbDllPathFromFilePath@@YAHPB_WPA_WI@Z) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 ___vcrt_GetModuleFileNameW，函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 ___vcrt_GetModuleHandleW，函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 中引用了该符号
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: 无法解析的外部符号 ___vcrt_LoadLibraryExW，函数 "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPAUHINSTANCE__@@XZ) 中引用了该符号
+MSVCRTD.lib(chandler4_noexcept.obj) : error LNK2019: 无法解析的外部符号 _terminate，函数 __except_handler4_noexcept 中引用了该符号
+MSVCRTD.lib(chandler4_noexcept.obj) : error LNK2019: 无法解析的外部符号 ___current_exception，函数 __except_handler4_noexcept 中引用了该符号
+MSVCRTD.lib(chandler4_noexcept.obj) : error LNK2019: 无法解析的外部符号 ___current_exception_context，函数 __except_handler4_noexcept 中引用了该符号
+MSVCRTD.lib(chandler4gs.obj) : error LNK2019: 无法解析的外部符号 __except_handler4_common，函数 __except_handler4 中引用了该符号
+C:\Users\Zhang\source\repos\bg7jws\Cpp\Project2\Debug\Project2.exe : fatal error LNK1120: 19 个无法解析的外部命令
